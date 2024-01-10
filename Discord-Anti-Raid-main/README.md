@@ -1,0 +1,1 @@
+Merci de faire votre configuration ! dans le dossier config  ou alors lancer directement le install module !
